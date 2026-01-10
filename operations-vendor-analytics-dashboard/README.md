@@ -24,7 +24,7 @@ This project uses mock and simulated data created for demonstration purposes. No
 - User-focused layout design to improve usability and clarity
 
 ## Technical Challenges & Solutions
-- Troubleshot data access issues to ensure data could be reliably loaded into Power BI.
+- Troubleshot data access issues to ensure consistent data refreshes and reliable dashboard reporting.
 - Strengthened testing and validation workflows using Visual Studio Code before loading data into Power BI
 
 ## Tools Used
