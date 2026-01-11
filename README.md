@@ -1,4 +1,4 @@
-# data-analytics-projects
+# Data-Analytics-Projects
 Data analytics projects showcasing data cleaning, analysis, dashboards, and reporting automation with SQL, Power BI, Excel, and Python.
 
 ## Tools & Technologies
